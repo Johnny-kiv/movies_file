@@ -1,1 +1,1 @@
-Run main.py and look at index.html.
+Run main.py and look at folder with project.
